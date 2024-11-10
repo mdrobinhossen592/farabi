@@ -1,0 +1,5 @@
+// Init
+$(function(){ 
+    $("#farabi").twentytwenty();
+});
+
